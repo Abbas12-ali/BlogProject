@@ -16,7 +16,7 @@ SQLite database (default)
 
 ### Tech Stack
 
-Python 3.x
+Python 3.11
 
 Django 5
 
